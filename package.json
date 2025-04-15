@@ -1,0 +1,15 @@
+{
+    "name": "calculator",
+    "version": "1.0.0",
+    "description": "Простой калькулятор на JavaScript",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "dev": "live-server --port=8080"
+    },
+    "author": "Ildar Mazitov",
+    "license": "MIT",
+    "devDependencies": {
+        "live-server": "^1.2.2"
+    }
+}
